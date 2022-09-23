@@ -2,7 +2,8 @@
 - 👀 I’m interested in TTRPGs, Co-op games, & LAN games
 - 🌱 I’m currently learning Game Design @ VFS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🔗 Connect with me on LinkedIn @ linkedin.com/in/samuel-c-english
+- 📧 You can get ahold of me at Senglish00@gmail.com
 
 <!---
 SamuronTheWhite/SamuronTheWhite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
