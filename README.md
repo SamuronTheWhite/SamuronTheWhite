@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SamuronTheWhite
 - 👀 I’m interested in TTRPGs, Co-op games, & LAN games
-- 🌱 I’m currently learning Game Design @ VFS
+- 🌱 I’m currently seeking employment within the games industry
 - 💞️ I’m looking to collaborate on ...
 - 🔗 Connect with me on LinkedIn @ linkedin.com/in/samuel-c-english
 - 📧 You can get ahold of me at Senglish00@gmail.com
